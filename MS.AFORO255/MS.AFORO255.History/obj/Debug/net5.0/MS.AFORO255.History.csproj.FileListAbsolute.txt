@@ -1,0 +1,159 @@
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.exe
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.deps.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\ref\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\DnsClient.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\SharpCompress.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.History.styles.css
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\ref\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.pdb
+D:\AFORO255\CLASES\2021\59.- MSN - ABR 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.genruntimeconfig.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.Development.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.local.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.exe
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.deps.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.dev.json
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\ref\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.pdb
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\DnsClient.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\SharpCompress.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csprojAssemblyReference.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.GeneratedMSBuildEditorConfig.editorconfig
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfoInputs.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfo.cs
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CoreCompileInputs.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cs
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.Manifest.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.xml
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.History.styles.css
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.RazorTargetAssemblyInfo.cache
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CopyComplete
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\ref\MS.AFORO255.History.dll
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.pdb
+D:\AFORO255\CLASES\2021\72.- MSN - JUL 21\01\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.genruntimeconfig.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.local.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.exe
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.deps.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.dev.json
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\ref\MS.AFORO255.History.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.pdb
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfoInputs.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfo.cs
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.Manifest.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.xml
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.History.styles.css
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CopyComplete
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\ref\MS.AFORO255.History.dll
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.pdb
+C:\Users\Ivan Cuadros\Desktop\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.genruntimeconfig.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\appsettings.local.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.exe
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.deps.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.runtimeconfig.dev.json
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\ref\MS.AFORO255.History.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MS.AFORO255.History.pdb
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\DnsClient.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.AssemblyReference.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfoInputs.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.AssemblyInfo.cs
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CoreCompileInputs.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.Manifest.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\staticwebassets\MS.AFORO255.History.StaticWebAssets.xml
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\scopedcss\bundle\MS.AFORO255.History.styles.css
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.RazorTargetAssemblyInfo.cache
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.csproj.CopyComplete
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\ref\MS.AFORO255.History.dll
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.pdb
+C:\Users\rjair\Documents\curso-Net5\base-net5\MS.AFORO255\MS.AFORO255.History\obj\Debug\net5.0\MS.AFORO255.History.genruntimeconfig.cache
